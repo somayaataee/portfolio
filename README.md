@@ -4,7 +4,7 @@
 
 ## Screenshots
 
-![Landing Page Desktop](images/screen.png)
+![Landing Page Desktop](screen.png)
 
 ## Developer
 
@@ -14,3 +14,4 @@
 ## Deployed (Render)
 
 [🔗 [Open live demo — https://somayaataee.github.io/my-portfolio/](https://somayaataee.github.io/my-portfolio/)]
+
